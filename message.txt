@@ -1,1 +1,2 @@
-hey this is a message fiom main brnch
+this from both main and branch1
+
